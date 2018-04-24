@@ -1,12 +1,12 @@
 # _{title}_
 
-#### _{description}_
+#### _{brief description}_
 
 #### By _**Kristen Chellis {date}**_
 
 ## Description
 
-_This page will check a Sudoku board and inform the user if it passes or not._
+_{more detailed description}_
 
 ### Specs
 | Spec | Input | Output |
@@ -20,6 +20,7 @@ _This page will check a Sudoku board and inform the user if it passes or not._
 * _Clone this repository to your computer_
 * _Run "npm install" in CLI_
 * _Run "npm run build" in CLI_
+* _{if running api, directions for api key}_
 * _Open index.html in browser_
 
 
